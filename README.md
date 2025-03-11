@@ -54,6 +54,7 @@ Using **Metasploit**, I simulated various attacks (e.g., SQL injection, buffer o
 ---
 
 ## **Future Work:**
+- Add Screenshots Highlighting steps taken
 - Expand the lab to include more tools like **Wireshark**, **Nmap**, and **Burp Suite** for network analysis and vulnerability scanning.
 - Experiment with creating automated attack detection and response workflows.
 - Explore additional security measures like **firewalls**, **VPNs**, and advanced **IDS/IPS** systems.
